@@ -1,6 +1,6 @@
 ## Olá! <img src="https://raw.githubusercontent.com/victoralmeidadev/victoralmeidadev/master/wave.gif" width="30px">
 
-Este site foi desenvolvido como teste para a Hit Games.
+Este app foi desenvolvido como teste para a Hit Games.
 
 ## ⚡ Tecnologias utilizadas
 
