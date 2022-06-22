@@ -11,4 +11,6 @@ Este site foi desenvolvido como teste para a Hit Games.
 
 ## 🆙 Demo
 
-<img src="https://user-images.githubusercontent.com/30902898/129972012-5b6b7479-3f3d-4be6-9815-d82c22ffd725.gif" width="800px">
+<img src="https://user-images.githubusercontent.com/30902898/175036078-416071f9-4ed6-4df0-8c3e-48e1512aae0c.jpeg" width="800px">
+<img src="https://user-images.githubusercontent.com/30902898/175036102-df0c5233-59ce-491c-b337-3ac13a422a19.jpeg" width="800px">
+<img src="https://user-images.githubusercontent.com/30902898/175036153-bdffd98c-636e-4504-aa62-04d8aa913c50.jpeg" width="800px">
