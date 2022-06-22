@@ -61,4 +61,26 @@ export const styles = StyleSheet.create({
     justifyContent: "center",
     marginRight: 20,
   },
+  modalContent:{
+    display: 'flex',
+    padding: 10
+  },
+  modalContentHeader:{
+    display: 'flex',
+    flexDirection: 'column',
+    alignItems: 'center',
+  },
+  modalContentBody:{
+    marginTop:10,
+    display: 'flex',
+    flexDirection: 'row',
+    alignItems: 'center',
+    justifyContent: 'space-between',
+  },
+  textTitle:{
+    fontFamily: theme.fonts.bold,
+  },
+  textRow:{
+    fontFamily: theme.fonts.regular,
+  }
 });

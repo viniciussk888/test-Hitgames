@@ -5,6 +5,7 @@ import AppLoading from "expo-app-loading";
 //routes
 import { NavigationContainer } from "@react-navigation/native";
 import { AppRoutes } from "./src/routes/app.routes";
+import { Provider as PaperProvider } from "react-native-paper";
 
 import {
   useFonts,
@@ -25,9 +26,11 @@ export default function App() {
   }
 
   return (
+    <PaperProvider>
       <NavigationContainer>
         <AppRoutes />
         <StatusBar style="light" />
       </NavigationContainer>
+    </PaperProvider>
   );
 }

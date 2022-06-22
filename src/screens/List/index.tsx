@@ -8,6 +8,7 @@ import { data } from "../../utils/data";
 import { styles } from "./styles";
 
 export const List: React.FC = () => {
+
   return (
     <Background>
       <ScrollView showsVerticalScrollIndicator={false}>
